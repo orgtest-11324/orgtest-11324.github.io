@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fsearch","\u002F","\u002Fp\u002F[slug]","\u002Ft\u002F[tag]","\u002Fs\u002F[series]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
